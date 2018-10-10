@@ -1,0 +1,30 @@
+the list of Docker containers we ran in our experiments:
+(notes: these are all top popular containers from Docker hub, 
+with 10M+ number of pulls.)
+
+01 alpine
+02 nginx
+03 httpd
+04 redis
+05 busybox
+06 ubuntu
+07 memcached
+08 registry
+09 node 
+10 consul
+11 hello-world
+12 elasticsearch
+13 php
+14 wordpress
+15 haproxy
+16 rabbitmq
+17 docker
+18 ruby
+19 python 
+20 debian
+21 traefik
+22 java
+23 perl
+24 amazonlinux
+25 erlang 
+
